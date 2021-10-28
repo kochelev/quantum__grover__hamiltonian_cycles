@@ -13,5 +13,4 @@ Or use next command to install libraries without virtualenv:
 > pip install numpy qiskit matplotlib
 ```
 
-Than run cell by cell notebook.
-
+Than run notebook cell by cell.
