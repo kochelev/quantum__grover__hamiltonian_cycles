@@ -1,4 +1,4 @@
-# Quantum Grover algorithm for searching hamiltonian paths
+# Quantum Grover algorithm for searching hamiltonian paths in the 5 vertex graph
 
 Repository contains script that searches hamiltonian paths in the graph using quantum Grover algorithm.
 
