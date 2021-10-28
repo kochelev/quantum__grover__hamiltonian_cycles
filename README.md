@@ -1,4 +1,4 @@
-# quantum__grover_hamiltonian_path
+# Search for hamiltonian paths in the graph via Grover quantum algorithm
 Repository contains script that searches hamiltonian paths in the graph using quantum Grover algorithm.
 
 Supposed you already have Python3 and Jupyter installed. Open Terminal, create a virtual environment and install requirements:
