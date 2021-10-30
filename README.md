@@ -1,6 +1,6 @@
-# Quantum Grover algorithm for searching hamiltonian paths in the 5 vertex graph
+# Quantum Grover algorithm for searching hamiltonian cycles in the 5 vertex graph
 
-Repository contains script that searches hamiltonian paths in the graph using quantum Grover algorithm.
+Repository contains script that searches hamiltonian cycles in the graph using quantum Grover algorithm.
 
 Supposed you already have Python3 and Jupyter installed. Open Terminal, create a virtual environment and install requirements:
 
